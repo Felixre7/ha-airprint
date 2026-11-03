@@ -1,9 +1,9 @@
 name: AirPrint
-version: "1.12.0"
+version: "1.12.1"
 slug: airprint
 description: AirPrint bridge for network printers that do not support it
 url: https://github.com/aaronfagan/ha-airprint
-image: ghcr.io/aaronfagan/ha-airprint/airprint
+image: ghcr.io/felixer7/ha-airprint/airprint
 arch:
   - amd64
   - aarch64
